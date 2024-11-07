@@ -1,0 +1,10 @@
+venv/
+core/
+config/*
+particl_moderation.egg-info
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+!config/predefinied_rules.json
