@@ -1,0 +1,159 @@
+{
+    "adult-content": {
+      "downvote": [
+        "Explicit sexual content or services",
+        "Onlyfans or other adult site account leaks, content, or data",
+        "Pornography or adult entertainment",
+        "NSFW material",
+        "Erotic products",
+        "Sexual performances",
+        "Fetish items",
+        "Non-consensual adult content"
+      ],
+      "upvote": [
+        "Sexual health education",
+        "Artistic nude art",
+        "Sexuality education materials",
+        "Healthy relationship resources",
+        "Adult-themed counseling services"
+      ],
+      "ignore": [
+        "Suggestive but non-explicit content",
+        "General relationship discussions",
+        "Mature themes without explicit details"
+      ]
+    },
+    "children": {
+      "downvote": [
+        "Child exploitation content",
+        "Underage sexual material, jailbait",
+        "Child trafficking",
+        "Illegal adoption services",
+        "Sexualized minor imagery",
+        "Child labor",
+        "Child abuse services"
+      ],
+      "upvote": [
+        "Children's educational resources",
+        "Family-friendly content",
+        "Child development tools",
+        "Parenting advice",
+        "Child safety information",
+        "Children's products (clothing, toys)",
+        "Family activities"
+      ],
+      "ignore": [
+        "General children's entertainment",
+        "Standard children's products",
+        "Parenting discussions"
+      ]
+    },
+    "drugs": {
+      "downvote": [
+        "Illegal narcotics",
+        "Recreational substances",
+        "Unauthorized prescription medication",
+        "Drug paraphernalia",
+        "Xanax and other benzodiazepines products",
+        "Synthetic or research chemicals",
+        "Drug distribution services",
+        "Pure chemicals, chemicals for sale",
+        "Illicit drug manufacturing equipment"
+      ],
+      "upvote": [
+        "Legal cannabis products",
+        "Over-the-counter medication",
+        "Health supplements",
+        "Herbal remedies",
+        "Drug harm reduction resources",
+        "Drug policy education"
+      ],
+      "ignore": [
+        "General wellness products",
+        "Legal CBD items",
+        "Cannabis products to and from regions where it is legal",
+        "Drug policy discussions"
+      ]
+    },
+    "online-services": {
+      "downvote": [
+        "Hitman services",
+        "Human trafficking",
+        "Counterfeit documents",
+        "Money laundering services and tax or sanction evasion tactics",
+        "Illegal hacking services",
+        "Dark web criminal services",
+        "Bribery or corruption",
+        "Organ trafficking",
+        "Stolen or hacked online accounts or content",
+        "Online fraud schemes"
+      ],
+      "upvote": [
+        "Legal financial services",
+        "Ethical hacking and cybersecurity",
+        "Legal document services",
+        "Security services",
+        "Tor and I2P related content",
+        "Fraud prevention education"
+      ],
+      "ignore": [
+        "Legal high-risk job listings",
+        "Financial compliance services",
+        "Trading literature, tips or signals",
+        "Legal consultancy",
+        "VPN, Tor, and data protection services",
+        "Cryptocurrency and precious metals offers, OTC deals",
+        "Cybersecurity discussions"
+      ]
+    },
+    "personal-data": {
+      "downvote": [
+        "Stolen personal information",
+        "Hacked accounts",
+        "Identity theft services",
+        "Compromised records (financial, medical)",
+        "Stolen contact information",
+        "Personal data trafficking",
+        "Online accounts for sale (e.g., Spotify accounts for $2)",
+        "CC or credit cards or bank cards or paypal accounts for sale",
+        "Fake identity documents",
+        "Leaked databases"
+      ],
+      "upvote": [
+        "Legal privacy software",
+        "Data recovery services",
+        "Privacy education resources",
+        "Identity protection services",
+        "Secure data storage products"
+      ],
+      "ignore": [
+        "Data security discussions",
+        "Public record information",
+        "Legal public directories"
+      ]
+    },
+    "weapons": {
+      "downvote": [
+        "Illegal firearms",
+        "Military-grade weapons",
+        "Explosives or bombs",
+        "Weaponized drones",
+        "Unlicensed firearm sales",
+        "Illegal bladed weapons",
+        "Weapons for criminal use"
+      ],
+      "upvote": [
+        "Collectible weapons",
+        "Legal hunting equipment",
+        "Firearm accessories",
+        "Sports weapons (archery, airsoft)",
+        "Non-lethal self-defense tools",
+        "Responsible firearm use education"
+      ],
+      "ignore": [
+        "Legal self-defense items",
+        "Hunting accessories",
+        "Sporting equipment"
+      ]
+    }
+  }

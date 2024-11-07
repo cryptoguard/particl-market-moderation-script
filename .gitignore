@@ -7,4 +7,5 @@ particl_moderation.egg-info
 *.pyo
 *.pyd
 
-!config/predefinied_rules.json
+!config/predefined_rules.json
+!config/dummy_listings.txt
